@@ -1,5 +1,4 @@
 #ifdef _WIN32
-//For Windows
 #include <winsock2.h>
 #include <ws2tcpip.h>
 #include <iphlpapi.h>
