@@ -92,4 +92,6 @@ int main()
 
 	// chiusura del socket
 	close(sockfd);
+	
+	return 0;
 }
